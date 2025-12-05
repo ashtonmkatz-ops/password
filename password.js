@@ -2,6 +2,7 @@
 function checkPassword() {
             var password = "vuulinox"
             var userInput = document.getElementById("pswd").value;
+            console.log(userInput)
     
             if (userInput === password) {
                 // Password is correct, show the content
