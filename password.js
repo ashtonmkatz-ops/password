@@ -1,1 +1,1 @@
-var password = "vuulinox"
+export const password = "vuulinox"
