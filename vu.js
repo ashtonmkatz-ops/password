@@ -1,1 +1,1 @@
-'vuulinox'
+vuulinox
